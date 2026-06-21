@@ -48,7 +48,7 @@ Window functions and query optimization are the areas where most candidates stru
 
 ## Difficulty Key
 
-🟢 Easy — should know cold  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
+🟢 Easy — expected in every interview  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
 
 ---
 
