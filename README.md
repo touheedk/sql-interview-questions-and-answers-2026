@@ -4,7 +4,8 @@ SQL interview questions on joins, window functions, indexing, query optimization
 
 416 questions · 25 subtopics
 
-Full answers and code examples: [interview-prep.coderboi.com/sql](https://interview-prep.coderboi.com/sql)
+Full answers and code examples: [interview-prep.coderboi.com/sql](https://interview-prep.coderboi.com/sql)  
+Structured study roadmap: [interview-prep.coderboi.com/roadmap/sql](https://interview-prep.coderboi.com/roadmap/sql)
 
 ---
 
