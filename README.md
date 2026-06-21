@@ -46,6 +46,12 @@ Window functions and query optimization are the areas where most candidates stru
 
 ---
 
+## Difficulty Key
+
+🟢 Easy — should know cold  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
+
+---
+
 ## Basics
 
 JOIN types and aggregation are the foundation. Be able to write and explain the execution order of a query (WHERE before GROUP BY before HAVING).
@@ -638,12 +644,6 @@ SQL injection and permissions are must-knows. Know how parameterized queries pre
 - 🟡 [How does least-privilege database access reduce SQL injection impact?](https://interview-prep.coderboi.com/sql/security/sql-injection#q-least-privilege-sqli)
 
 [Full answers with code examples →](https://interview-prep.coderboi.com/sql/security/sql-injection)
-
----
-
-## Difficulty Key
-
-🟢 Easy — should know cold  ·  🟡 Medium — needs practice  ·  🔴 Hard — senior-level
 
 ---
 
